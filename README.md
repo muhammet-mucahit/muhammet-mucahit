@@ -1,7 +1,5 @@
 ### Hi there I'm Mucahit! 👋
 
-<br/>
-
 <a href="https://www.linkedin.com/in/hemant-j-85518a195/">
   <img alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
