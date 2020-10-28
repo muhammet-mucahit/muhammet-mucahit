@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm Mucahit! 👋
 
-<!--
-**muhammet-mucahit/muhammet-mucahit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+  <img alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://github.com/muhammet-mucahit/muhammet-mucahit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammet-mucahit&hide=html,css,jupyter notebook,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/muhammet-mucahit/muhammet-mucahit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammet-mucahit&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
