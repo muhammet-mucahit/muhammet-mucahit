@@ -1,7 +1,11 @@
 ### Hi there I'm Mucahit! 👋
 
 <a href="https://www.linkedin.com/in/hemant-j-85518a195/">
-  <img alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/muhammet-mucahit">
+  <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br/>
