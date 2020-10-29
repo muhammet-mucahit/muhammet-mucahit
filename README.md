@@ -19,7 +19,7 @@ I am Full stack Developer. I love experimenting with new technologies and buildi
 
 ## 💬 Social Accounts
 
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+<a href="https://www.linkedin.com/in/muhammet-m%C3%BCcahit-aktepe-0a482b147/">
   <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
